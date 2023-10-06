@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomButton">#AE7777</style>
+    <style name="RectangularButton" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">0dp</item>
+    </style>
+
+    <style name="SquareButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">0dp</item>
+    </style>
+</resources>
